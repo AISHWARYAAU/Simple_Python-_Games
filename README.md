@@ -18,7 +18,8 @@ A classic Tic-Tac-Toe game implemented in Python. This game allows two players t
 python tic_tac_toe.py
 ```
 
----
+![image](https://github.com/AISHWARYAAU/Simple_Python-_Games/assets/91381783/496deb32-5b73-4977-9f7e-de46bf5dad1e)
+
 
 ## 2. Guess the Number
 
@@ -37,8 +38,9 @@ A simple "Guess the Number" game where the computer randomly selects a number be
 ```bash
 python guess_the_number.py
 ```
+![image](https://github.com/AISHWARYAAU/Simple_Python-_Games/assets/91381783/8506fccf-a39e-4f1b-b908-d17c4a61ad4e)
+![image](https://github.com/AISHWARYAAU/Simple_Python-_Games/assets/91381783/c1840bc2-396f-4018-97df-1f9ec3424b1c)
 
----
 
 ## 3. Hangman
 
@@ -55,6 +57,8 @@ The classic word-guessing game, Hangman, implemented in Python. The program sele
 
 ### How to Run:
 ```bash
+
+
 python hangman.py
 ```
 
